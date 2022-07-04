@@ -3,8 +3,8 @@
 
 
 #path: ../datasets/coco128  # dataset root dir
-train: /content/face_data/train/images  # train images (relative to 'path') 128 images
-val: /content/face_data/val/images # val images (relative to 'path') 128 images
+train: C:/Users/PC/PycharmProjects/ComputerVision/YOLO_v2/face_data/train/images  # train images (relative to 'path') 128 images
+val: C:/Users/PC/PycharmProjects/ComputerVision/YOLO_v2/face_data/train/images # val images (relative to 'path') 128 images
 # test:  # test images (optional)
 
 # Classes
